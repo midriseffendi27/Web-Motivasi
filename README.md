@@ -1,2 +1,2 @@
-# cv-apps
-Sample CV app 
+# mov-app
+Sample Motivasi App
