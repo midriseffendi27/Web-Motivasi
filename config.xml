@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "https://www.canva.com/design/DAGKvt_P4e4/s4STNhQlnZ820o4RsX81Vw/view?utm_content=DAGKvt_P4e4&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.mbp.movapp"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>MOVAPP</name>
+
+  <description>
+      Contoh Aplikasi CV
+  </description>
+
+  <author href="https://dosenprogramming.com" email="dosenprogramming@gmail.com">
+      Mudah Belajar Pemrograman
+  </author>
+
+</widget>
